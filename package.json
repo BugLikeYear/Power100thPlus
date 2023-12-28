@@ -1,15 +1,15 @@
 { 
-   "name": "Power100thPlus",
+   "name": "BETFLIX99 SLOT",
    "theme": "syntax",
-   "version": "0.0.0",
-   "description": "pg pg888th สล็อตเครดิตฟรี",
+   "version": "5.0.7",
+   "description": "BETFLIX99 SLOT เว็ปตรงไม่ผ่านเอเย่นต์",
    "keywords": [
-     "สล็อตเครดิตฟรี",
+     "สล็อตเว็ปตรง",
      "แทงบอลออนไลน์",
      "slot",
      "สล็อต"
    ],
-   "repository": "https://github.com/BugLikeYear/Power100thPlus.git",
+   "repository": ".",
    "license": "MIT",
    "engines": {
      "atom": ">=1.0.0 <2.0.0"
